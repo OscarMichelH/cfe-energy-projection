@@ -1,0 +1,2 @@
+module CfeConsumptionsHelper
+end

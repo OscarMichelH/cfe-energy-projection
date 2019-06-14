@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  name: MyString
+  latitude: MyString
+  longitude: MyString
+  altitude: MyString
+  letter: MyString
+  type: 
+  population: 1
+  males: 1
+  females: 1
+  homes: 1
+  lat: 9.99
+  lng: 9.99
+  active: false
+
+two:
+  code: MyString
+  name: MyString
+  latitude: MyString
+  longitude: MyString
+  altitude: MyString
+  letter: MyString
+  type: 
+  population: 1
+  males: 1
+  females: 1
+  homes: 1
+  lat: 9.99
+  lng: 9.99
+  active: false

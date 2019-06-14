@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cfe_fee: MyString
+  year: 2019-06-07
+  intake_kwh: 1.5
+
+two:
+  cfe_fee: MyString
+  year: 2019-06-07
+  intake_kwh: 1.5

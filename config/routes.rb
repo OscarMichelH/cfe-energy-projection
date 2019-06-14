@@ -1,3 +1,7 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+  resources :cfe_consumptions do
+    collection { post :import }
+  end
+
+  root to: 'cfe_consumptions#new'
 end
